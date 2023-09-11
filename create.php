@@ -35,7 +35,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body style="background: blue;">
+   <body>
        <h2>Sign up:</h2>
 
        <form action="" method = "POST">
@@ -58,18 +58,17 @@
                          <br>
                          Marital status: <br>
                          <input type="marital" name="marital" required><br>
-
-                          
-                        Ward:
+                    
+                        Ward:<br>
                         <input type="ward" name="ward" value="" required><br><br>
 
-                        District:
+                        District:<br>
                         <input type="District" name="district" value="" required><br><br>
 
-                        Region:
+                        Region:<br>
                         <input type="Region" name="region"  value="" required><br><br>
 
-                         Password: <br>
+                         Password:<br>
                          <input type="password" name="password" required>
                          <br><br>
 
